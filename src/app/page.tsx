@@ -7,6 +7,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold text-gray-900 dark:text-gray-100">Welcome to devKtOps</h1>
         <p className="mt-4 text-lg text-gray-700 dark:text-gray-300">Empowering DevOps for your organization</p>
         <p className="mt-4 text-lg text-gray-700 dark:text-gray-300">We provide tools, learning resources, and a community to help you succeed.</p>
+        <p className="mt-4 text-lg text-gray-700 dark:text-gray-300">This is testing for second pipeline</p>
         <Image
           src="/devktops.jpeg"
           alt="devKtOps Logo"
